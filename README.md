@@ -19,3 +19,5 @@ Spring Security、Spring Actuator
 应用服务器：Apache Tomcat 
 
 版本控制工具：Git
+
+项目笔记：https://www.yuque.com/xuhaotian-nsxhn/bwzknf/cgp9ku
