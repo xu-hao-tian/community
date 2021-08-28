@@ -21,5 +21,6 @@ Spring Security、Spring Actuator
 版本控制工具：Git
 
 项目笔记：https://www.yuque.com/xuhaotian-nsxhn/bwzknf/cgp9ku
-链接：https://pan.baidu.com/s/1qIKlY_25ynbwN_soZtmTkA 
+
+资料链接：https://pan.baidu.com/s/1qIKlY_25ynbwN_soZtmTkA 
 提取码：1dsl
