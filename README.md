@@ -1,4 +1,4 @@
-1、技术架构 
+## 1、技术架构 
 
 Spring Boot 
 
@@ -8,7 +8,7 @@ Redis、Kafka、Elasticsearch
 
 Spring Security、Spring Actuator
 
-2、开发环境 
+## 2、开发环境 
 
 构建工具：Apache Maven 
 
